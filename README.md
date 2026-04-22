@@ -279,7 +279,8 @@ Check:
 
 # 👥 Team
 
-**Masala_Tech**
-         -*Owes Mehboob*
-         -*Sanya Khan*
-         -*Honi Arora*
+**Masala Techii**
+
+- Owes Mehboob  
+- Sanya Khan  
+- Honi Arora  
